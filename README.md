@@ -117,6 +117,7 @@ This project demonstrates how data analytics can help streaming platforms:
 
 # 📸 Dashboard Preview
 
+<img width="1132" height="656" alt="net " src="https://github.com/user-attachments/assets/fcbea607-01c0-4ceb-8cce-bdc52389c477" />
 
 
 # ⭐ Future Improvements
@@ -136,9 +137,7 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 
 ### Connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: https://linkedin.com/in/piyushchawla08
 
 ---
 
